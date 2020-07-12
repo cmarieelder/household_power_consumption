@@ -1,6 +1,6 @@
-## household_power_consumption
+# household_power_consumption
 
-# Scripts
+## Scripts
 * <b>`plot1.R`</b>: reads the data set using `read_housing_data.R`, generates a histogram of Global Active Power, and saves the plot in `plot1.png`.  
 
 * <b>`plot2.R`</b>: reads the data set using `read_housing_data.R`, generates a line graph of Global Active Power over time, and saves the plot in `plot2.png`.  
@@ -13,7 +13,7 @@
 * <b>`read_housing_data.R`</b>: reads the housing power consumption data for the dates 2007-02-01 and 2007-02-02 using `download_file.R` and combines the Date and Time columns into a single Datetime column.  
 * <b>`download_file.R`</b>: helper script for downloading a file from a given URL into a destination, if the destination doesn't already exist.  
 
-# Exploratory Data Analysis Project
+## Exploratory Data Analysis Project
 This project uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
@@ -60,7 +60,7 @@ The four plots to construct are shown below.
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
 
-## References:  
+### References:  
 * This project was created for the [Exploratory Data Analysis course](https://www.coursera.org/learn/exploratory-data-analysis) from John Hopkins University for Course Project 1.  
 * The project is forked and cloned from the following GitHub repository:
 [https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)
