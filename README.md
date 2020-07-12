@@ -61,7 +61,8 @@ The four plots to construct are shown below.
 
 
 ### References:  
-* This project was created for the [Exploratory Data Analysis course](https://www.coursera.org/learn/exploratory-data-analysis) from John Hopkins University for Course Project 1.  
+* This project was created for the [John Hopkins University: Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis) course.       
+  - Assignment specification can be found under "Course Project 1".  
 * The project is forked and cloned from the following GitHub repository:
 [https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)
 
